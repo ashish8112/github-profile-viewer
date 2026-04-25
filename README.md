@@ -3,7 +3,7 @@
 A vanilla JavaScript project that fetches and displays live GitHub user data using the GitHub REST API.
 
 ## 🔗 Demo
-> Deployment coming soon.
+[View Live](https://ashish8112.github.io/github-profile-viewer/)
 
 ## 💡 About
 Enter any GitHub username and instantly see their profile card — avatar, name, and followers count. Built with zero frameworks — pure HTML, CSS and JavaScript.
