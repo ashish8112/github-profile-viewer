@@ -28,7 +28,7 @@ HTML | CSS | JavaScript | XMLHttpRequest (XHR) | GitHub REST API
 
 ## ⚙️ Run Locally
 ```bash
-# Just open index.html in browser — no setup needed
+# Just open index.html in browser — no setup needed 
 ```
 
 ## 👨‍💻 Developer
