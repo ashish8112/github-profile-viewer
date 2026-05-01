@@ -37,3 +37,4 @@ MCA Student — Kristu Jayanti University, Bengaluru
 
 - GitHub: https://github.com/ashish8112
 - Email: ashishkrshukla.dev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ashish-shukla8112/
